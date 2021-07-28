@@ -1,0 +1,21 @@
+/* textarea scroolbar */
+/* width */
+textarea::-webkit-scrollbar {
+	width: 3px;
+}
+
+/* Track */
+textarea::-webkit-scrollbar-track {
+	background: #f5f5f5;
+}
+
+/* Handle */
+textarea::-webkit-scrollbar-thumb {
+	background: rgb(0, 179, 255);
+}
+
+/* Handle on hover */
+textarea::-webkit-scrollbar-thumb:hover {
+	width: 10px;
+}
+/* textarea scrollbar end */
