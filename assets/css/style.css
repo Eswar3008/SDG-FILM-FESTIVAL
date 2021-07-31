@@ -775,29 +775,29 @@ section {
 /*--------------------------------------------------------------
 # Clients
 --------------------------------------------------------------*/
-.all_iiit .owl-item {
+.all_SDG GOALS .owl-item {
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 0 20px;
 }
 
-.all_iiit .owl-item img {
+.all_SDG GOALS .owl-item img {
   height: 80%;
   opacity: "";
   transition: 0.1s;
 }
 
-.all_iiit .owl-item img:hover {
+.all_SDG GOALS .owl-item img:hover {
   opacity: 1;
 }
 
-.all_iiit .owl-nav, .clients .owl-dots {
+.all_SDG GOALS .owl-nav, .clients .owl-dots {
   margin-top: 5px;
   text-align: center;
 }
 
-.all_iiit .owl-dot {
+.all_SDG GOALS .owl-dot {
   display: inline-block;
   margin: 0 5px;
   width: 12px;
@@ -806,7 +806,7 @@ section {
   background-color: #fbe2d8 !important;
 }
 
-.all_iiit .owl-dot.active {
+.all_SDG GOALS .owl-dot.active {
   background-color: #1451AC !important;
 }
 
